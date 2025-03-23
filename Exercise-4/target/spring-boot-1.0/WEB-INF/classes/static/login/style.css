@@ -1,0 +1,36 @@
+body {
+	background-image: url(/static/img/building.png) !important ;
+	background-size: cover;
+
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-color: rgba(180, 180, 180, 0.5);
+	background-blend-mode: overlay;
+
+}
+
+
+.login-form  .btn.btn-primary {
+	background: #e869e8 none repeat scroll 0 0;
+	border-color: #dc52d7;
+	border-radius: 50px;
+	color: #ffffff;
+	font-size: 14px;
+	width: 50%;
+	height: 50px;
+	line-height: 50px;
+	padding: 0;
+	opacity: 0.8;
+}
+.login-form  .btn.btn-primary:hover {
+
+	width: 50%;
+	height: 50px;
+	background-color: #1202f1;
+}
+
+.login-form .card.text-white{
+
+	background: transparent;
+	border: #ffffff;
+}
